@@ -1,3 +1,6 @@
 img{              /*esto es un comentario en css*/
-    width: 50px;        /*logo redes sociales*/
+    width: 30px;        /*logo redes sociales*/
+    margin-top: 20px;   /*margen arriba*/
+    margin-right: 20px;     /*margen derecho*/
+    margin-bottom: 10px;     /*margen debajo*/
 }

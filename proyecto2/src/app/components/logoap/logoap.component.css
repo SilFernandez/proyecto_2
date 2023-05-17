@@ -1,3 +1,9 @@
-#logoAP{       /**/ 
-    width: 150px;              /*con # modifico el tamaño de logo de arg prog */
+#logotecla{       /**/ 
+    width: 50px;              /*con # modifico el tamaño de logo tecla */
+    margin-top: 10px;       /*arriba*/ 
+    margin-left: 20px;     /*margen izq*/
+    margin-bottom: 10px;     /*margen debajo*/ 
+      
+
+    
 }                 /**/  
